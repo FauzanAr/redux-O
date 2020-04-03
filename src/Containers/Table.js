@@ -5,7 +5,7 @@ import {
     toggleTodo,
     setVisibilityFilter
 } from "../Action/actionCreator";
-import { SHOW_ALL, SHOW_COMPLETED, SHOW_ACTIVE } from "../Action/actionsTypes";
+import { SHOW_ALL, SHOW_COMPLETED, SHOW_ACTIVE } from "../Action/actionTypes";
 import { bindActionCreators } from "redux";
 
 
